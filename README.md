@@ -16,9 +16,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansatvik)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ShreyanSatvik/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyansatvik@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://shreyansatvik.com)
+
 
 
 
