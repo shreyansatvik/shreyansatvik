@@ -17,54 +17,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansatvik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ShreyanSatvik/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyansatvik@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://shreyansatvik.com)
 
----
 
-## ▚ ACTIVE MISSIONS
 
-### ▸ MSN-01 · [MOODLENS](https://github.com/shreyansatvik/MoodLens-Mood-Based-Music-Movie-Recommender)
-**Objective — read the crew's face, score the moment.**
-
-Real-time facial emotion recognition over a webcam feed, mapped to mood categories,
-mapped to music and film recommendations. Fine-tuned VGG16 doing the seeing.
-
-```
-  SENSOR ──▶ FACE LOCK ──▶ VGG16 ──▶ MOOD ──▶ RECOMMENDATION
-  webcam      OpenCV       N classes           SOURCE
-```
-
-| TELEMETRY | READING |
-|---|---|
-| Training corpus | DATASET_NAME |
-| Classification accuracy | NN% validation, N classes |
-| Throughput | ~NN FPS on CPU / GPU_NAME |
-| Recommendation source | SPOTIFY API? TMDB? LOCAL DATASET? |
-
-`Python` · `PyTorch` · `OpenCV` · `Flask` → *adjust to what you actually used*
-
-> **⚠ PENDING:** attach a 10-second flight recording (GIF). This mission is 5× more convincing in motion.
-
-<br>
-
-### ▸ MSN-02 · [SKILL-TREE](https://github.com/shreyansatvik/skill-tree)
-**Objective — chart every skill worth learning, and what it takes to reach it.**
-
-A life-skills progression map rendered as a game-style tech tree: you can see what unlocks
-what, and what you'd have to learn first to get there.
-
-```
-  ┌─ STAR CHART ────────────────────────────────────────┐
-  │  2,044 nodes · 26 branches · 5 tiers · 3,961 edges  │
-  └─────────────────────────────────────────────────────┘
-```
-
-- Prerequisites form a DAG — DESCRIBE HOW YOU HANDLED LAYOUT / CYCLE DETECTION
-- CHART SOURCE: hand-curated? scraped? generated then edited?
-- Deployed at LINK_IF_DEPLOYED
-
-`JavaScript` · `LIBRARY_YOU_USED_FOR_RENDERING`
 
 ---
 
